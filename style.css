@@ -42,6 +42,7 @@ header
 {
     border: 1px solid white;
     background-color: blue;
+    transition: all 0.5s ease-in;
 }
 
 .logo img
