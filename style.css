@@ -40,7 +40,9 @@ header
 
 .main-nav li a:hover
 {
-    border: 1px solid green;
+    border: 1px solid black;
+    background-color: solid white;
+    font-color: solid black;
 }
 
 .logo img
